@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lam+Thanh+Tuan;Software+Engineering+Student;Learning+by+Building+Projects" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lam+Thanh+Tuan;Software+Engineering+Student;Learning+by+Building+Projects" alt="Typing introduction" />
 </p>
 
 <p align="center">
